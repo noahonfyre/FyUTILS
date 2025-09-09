@@ -1,12 +1,10 @@
 module github.com/noahzeisberg/FyUTILS
 
-go 1.23.0
-
-toolchain go1.23.7
+go 1.24.0
 
 require (
 	github.com/google/go-github v17.0.0+incompatible
-	golang.org/x/mod v0.26.0
+	golang.org/x/mod v0.28.0
 )
 
 require github.com/google/go-querystring v1.1.0 // indirect
