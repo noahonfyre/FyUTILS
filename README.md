@@ -58,11 +58,7 @@ If something doesn't work, or you can't get FyUTILS to start, try the following 
 
    Open your search bar and search for `PATH`. Click on the section `Environment Variables`. Check the `PATH` variable for the path `C:\\Users\\%USERNAME%\\.fyutils`. If the path doesn't exist, add it to the variable.
 
-4. **Get technical support:**
-
-   If you need further help with the installation or setup of FyUTILS, you can check out our [discord server](https://dsc.gg/nyronium).
-
-5. **Standalone EXE:**
+4. **Standalone EXE:**
 
    If you only want to run FyUTILS standalone, just download the [latest release](https://github.com/noahzeisberg/fyutils/releases/latest).
 
